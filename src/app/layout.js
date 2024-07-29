@@ -14,10 +14,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
       <link rel="manifest" href="/site.webmanifest.json" />
-      <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
-          rel="stylesheet"
-        />
+    
       </head>
 
       <body className={inter.className}>{children}</body>
