@@ -1,0 +1,11 @@
+.container {
+  position: relative;
+  width: 12rem;
+  height: 12rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(47, 26, 97, 0.6);
+  border-radius: 50%;
+  padding: 1rem;
+}
